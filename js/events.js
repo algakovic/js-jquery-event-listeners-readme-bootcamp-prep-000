@@ -28,4 +28,6 @@ getIT()
 frameIt()
 
 pressIt()
+
+submitIt()
 });
